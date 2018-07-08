@@ -1,0 +1,14 @@
+{
+  "name": "Time-Machine",
+  "version": "1.0.0",
+  "description": "Voici le bot officiel du discord TTD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RubiCrash",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
