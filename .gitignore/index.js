@@ -18,7 +18,7 @@ bot.on('ready', () => {
     console.log("Le bot est bien connecté et prêt à en découdre !")
 })
 
-bot.login(TOKEN);
+bot.login(process.env.TOKEN);
 
 bot.on('message', message => {
 
